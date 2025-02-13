@@ -118,7 +118,7 @@ const Project = () => {
                 </div>
                 <h3 className='font-semibold text-xl text-neutral-800 mt-5'> Gallery Image Landing Page </h3>
                 <div className='flex flex-wrap'>
-                    <a className='flex flex-wrap gap-2 bg-neutral-900 w-24 p-2 m-2 rounded-3xl hover:bg-neutral-700 duration-150' href="#"> <p className='pl-2'>Open</p> <MdOpenInNew /> </a>
+                    <a className='flex flex-wrap gap-2 bg-neutral-900 w-24 p-2 m-2 rounded-3xl hover:bg-neutral-700 duration-150' href="https://annurimat91.github.io/ImageGallery/"> <p className='pl-2'>Open</p> <MdOpenInNew /> </a>
                     <a className='p-1 m-2 text-neutral-800 hover:text-cyan-700 hover:border-b border-cyan-700 hover:duration-150' href="https://github.com/AnnurImat91/CodeAlpha_ImageGallery_ImatImansyah" target='_blank'> Source Code </a>
                 </div>
             </motion.div>
