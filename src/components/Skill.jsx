@@ -50,6 +50,9 @@ const Skill = () => {
                         <img src={reactLogo} className='size-14 logo react animate-spin-slow' alt="React logo" />
                     </div>
                     <div className='p-2 hover:-translate-y-3 duration-150'>
+                        <img src={vueLogo} className='size-14 logo' alt="Vue logo" />
+                    </div>
+                    <div className='p-2 hover:-translate-y-3 duration-150'>
                         <img src={viteLogo} className='size-14' alt="Vite logo" />
                     </div>
                     <div className='p-2 hover:-translate-y-3 duration-150'>
